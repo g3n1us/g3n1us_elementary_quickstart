@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "g3n1us_elementary": "file:g3n1us_elementary"
+    "g3n1us_elementary": "^0.1.63"
   }
 }
